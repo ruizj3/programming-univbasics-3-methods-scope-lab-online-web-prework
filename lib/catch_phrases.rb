@@ -15,6 +15,6 @@ def link
 end
 
 def any_phrase(phrase)
-  phrase = "Hey, stop it!"
+  phrase = "Hey, stop it!\n"
   puts phrase
 end
