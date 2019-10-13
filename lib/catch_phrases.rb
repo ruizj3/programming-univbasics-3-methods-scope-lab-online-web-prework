@@ -14,6 +14,6 @@ def link
   puts words
 end
 
-def any_phrase(name)
-  puts "Hey #{name}, stop it!"
-end 
+def any_phrase(phrase)
+  phrase = "Hey, stop it!"
+end
