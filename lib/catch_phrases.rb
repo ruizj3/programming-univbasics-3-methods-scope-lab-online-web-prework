@@ -13,3 +13,7 @@ def link
   words = "It's Dangerous To Go Alone! Take This.\n"
   puts words
 end
+
+def any_phrase(name)
+  puts "Hey #{name}, stop it!"
+end 
